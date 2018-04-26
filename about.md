@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "About"
-author: “Hana”
+author: "Hana"
 permalink: /about/
 ---
 
-Hoping their will be a place that gathers all my teeny-tiny random thoughts.
+Hope there will be a place somewhere that can gather all my teeny-tiny random thoughts without any limitations.
