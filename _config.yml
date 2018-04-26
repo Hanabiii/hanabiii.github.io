@@ -1,13 +1,13 @@
 # Site settings
-title:          Tale
+title:          Hana
 description:    "Minimal Jekyll theme for storytellers"
-url:            "https://chesterhow.github.io"
+url:            "https://hanabiii.github.io"
 
 # Author
 author:
-  name:         Chester How
-  url:          https://chester.how
-  email:        chesterhow@gmail.com
+  name:         Hana
+  url:          https://hanabiii.github.io
+  email:        andywangsy@gmail.com
 
 # Build settings
 markdown:       kramdown
