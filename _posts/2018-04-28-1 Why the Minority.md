@@ -15,4 +15,3 @@ We have 56 ethnical groups in China, and one of them, the majority ethnical grou
 ### BUT DO WE REALLY KNOW WHAT IS REALLY HAPPENING TO THEM?
 
 Presumably, no! This sense of incapability always stays right inside of me when depicting a certain status-quo. Even though I have noticed the importance of minority, no one as a majority would know exactly what really happens to them and how they really feel. Nevertheless, we pay more attention to them and that’s the only thing we can do.
-
