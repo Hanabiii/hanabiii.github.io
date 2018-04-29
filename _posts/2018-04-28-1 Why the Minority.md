@@ -4,7 +4,7 @@ title: "1 Why the Minority?"
 author: "Hana"
 ---
 
-Last year, a hit movie _Call Me By My Name_ storms the whole movie industry. The story starts with the relationship between a 17-year-old Jewish American-Italian boy and a 24-year-old Jewish American graduate student. Yes, it’s a gay film. No doubt, due to the conservative atmosphere, LGBT themed films are strictly prohibited in China. In spite of that, to my satisfaction, a booming number of Chinese people are paying attention to the LGBT minority. So today, for my first post, we are going to talk about the Minority Group.
+Last year, a hit movie _Call Me By Your Name_ storms the whole movie industry. The story starts with the relationship between a 17-year-old Jewish American-Italian boy and a 24-year-old Jewish American graduate student. Yes, it’s a gay film. No doubt, due to the conservative atmosphere, LGBT themed films are strictly prohibited in China. In spite of that, to my satisfaction, a booming number of Chinese people are paying attention to the LGBT minority. So today, for my first post, we are going to talk about the Minority Group.
 
 As an English debater, we are often told to do the contextualization on a certain theme. When debating, we often push ourselves to think what really happens at the status-quo and ask ourselves **WHY?**
 
