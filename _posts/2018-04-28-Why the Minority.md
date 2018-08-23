@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "1 Why the Minority?"
+title: "Why the Minority?"
 author: "Hana"
 ---
 
